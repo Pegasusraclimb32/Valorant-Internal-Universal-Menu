@@ -19,7 +19,7 @@
 
 
 
-  <a href="https://unexcheatts.github.io/UnexCheats/">
+  <a href="https://uneycheats.github.io/UneyCheats/">
     <img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge" alt="Download Latest Release">
   </a>
 
@@ -174,7 +174,7 @@ Stop missing shots. Start winning.
 
 
 
-  <a href="https://unexcheatts.github.io/UnexCheats/">
+  <a href="https://uneycheats.github.io/UneyCheats/">
     <img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge" alt="Download Latest Release">
   </a>
 
